@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegisterWithAnonymous</string>
+    <string name="home_name">Home</string>
+    <string name="main_name">Main</string>
+    <string name="btn_anonymous">contınue wıthout membershıp</string>
+    <string name="username">username...</string>
+    <string name="username_continue">Contınue</string>
+
+</resources>
